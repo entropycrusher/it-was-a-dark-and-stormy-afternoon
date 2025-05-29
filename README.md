@@ -19,7 +19,6 @@ referenced in the article “It Was a Dark and Stormy Afternoon.”
 ## 📁 Contents
 
 - `data/` — Source datasets (power outage history, NOAA wind speed data)
-- `docs/` — The PDF version of the article
 - `figs/` — Final visualizations
 - `src/`  — Code used to generate the charts
 - `README.md` — This file
